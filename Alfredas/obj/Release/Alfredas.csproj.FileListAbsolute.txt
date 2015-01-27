@@ -1,0 +1,24 @@
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Release\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Release\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Release\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Release\Motyvacija.exe.config
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Release\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Release\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.exe.config
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.exe.config
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\bin\Release\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Motyvacija.exe
+C:\Users\Rolandas\Desktop\BackUp\Apps\Alfredas2 - Copy\Alfredas\obj\Release\Motyvacija.pdb

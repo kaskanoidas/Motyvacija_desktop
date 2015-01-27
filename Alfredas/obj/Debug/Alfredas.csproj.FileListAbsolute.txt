@@ -1,0 +1,25 @@
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\bin\Debug\Alfredas.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\bin\Debug\Alfredas.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\bin\Debug\Alfredas.exe.config
+C:\Users\Rolandas\Desktop\Apps\Alfredas\Alfredas\obj\Debug\Alfredas.csprojResolveAssemblyReference.cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\bin\Debug\Alfredas.exe.config
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\obj\Debug\Alfredas.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\obj\Debug\Alfredas.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\obj\Debug\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\obj\Debug\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\obj\Debug\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\bin\Debug\Alfredas.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas - Copy\Alfredas\bin\Debug\Alfredas.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Debug\Motyvacija.exe.config
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Debug\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\bin\Debug\Motyvacija.pdb
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Debug\Alfredas.Form1.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Debug\Alfredas.Properties.Resources.resources
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Debug\Alfredas.csproj.GenerateResource.Cache
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Debug\Motyvacija.exe
+C:\Users\Rolandas\Desktop\Apps\Alfredas2\Alfredas\obj\Debug\Motyvacija.pdb
